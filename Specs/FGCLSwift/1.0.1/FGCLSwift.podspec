@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "FGCLSwift"
-  s.version          = "1.0.1"
+  s.version          = "1.0.2"
   s.summary          = "FGCL librerias comunes en swift"
 
 # This description is used to generate tags and improve search results.
